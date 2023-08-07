@@ -36,8 +36,24 @@ The project is organized into the following tasks:
 Each task includes detailed explanations, code samples, visualizations, and results.
 
 ## Getting Started
-
 To get started with the project, follow these steps:
+
+
+## Data
+The project uses a dataset provided by "ABC Private Limited" containing customer demographics, product details, and purchase amounts. The data dictionary and details about the dataset variables are available in the Data Dictionary.
+
+## Results
+The results and conclusion can be found in Jupyter Notebook including visualizations, insights, and findings, are documented in the file.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contributing
+
+Contributions to the project are welcome! If you find any issues, have suggestions for improvements, or would like to contribute code, please open an issue or a pull request.
+
+
 
 1. Clone this repository:
 
