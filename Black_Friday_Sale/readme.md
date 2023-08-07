@@ -39,6 +39,11 @@ Each task includes detailed explanations, code samples, visualizations, and resu
 
 To get started with the project, follow these steps:
 
+- Clone this repository:
+
+   ```bash
+   git clone https://github.com/eebadreza/AI_ML_Comviva/tree/main/Black_Friday_Sale
+
 
 ## Data
 
@@ -56,9 +61,3 @@ This project is licensed under the MIT License.
 
 Contributions to the project are welcome! If you find any issues, have suggestions for improvements, or would like to contribute code, please open an issue or a pull request.
 
-
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/eebadreza/AI_ML_Comviva/tree/main/Black_Friday_Sale
