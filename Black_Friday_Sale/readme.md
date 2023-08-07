@@ -61,4 +61,4 @@ Contributions to the project are welcome! If you find any issues, have suggestio
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/eebadreza/AI_ML_Comviva.git
+   git clone https://github.com/eebadreza/AI_ML_Comviva/tree/main/Black_Friday_Sale
