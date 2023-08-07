@@ -1,4 +1,4 @@
-# Exploratory Data Analysis and Customer Purchase Behavior Analysis in Retail
+# Black Friday Sales Prediction
 
 Welcome to the "Exploratory Data Analysis and Customer Purchase Behavior Analysis in Retail" project repository. This project aims to analyze customer purchase behavior for a retail company and provide insights into various aspects of their sales data.
 
