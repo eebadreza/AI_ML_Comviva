@@ -39,7 +39,7 @@ To get started with the course materials, follow these steps:
 This project is licensed under the MIT License.
 
 ## Contributing members
-@Anurag21102000
-@eebadraza
+[Eebad Raza](https://github.com/eebadreza)
+[Anurag Singh](https://github.com/Anurag21102000)
 
 
