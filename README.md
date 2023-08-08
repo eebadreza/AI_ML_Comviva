@@ -38,7 +38,8 @@ To get started with the course materials, follow these steps:
 
 This project is licensed under the MIT License.
 
-## Contributing
+## Contributing members
+@Anurag21102000
+@eebadraza
 
-Contributions to the project are welcome! If you find any issues, have suggestions for improvements, or would like to contribute code, please open an issue or a pull request.
 
