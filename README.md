@@ -2,10 +2,6 @@
 
 Welcome to the Comviva Course Materials repository. This repository contains a collection of materials for the Comviva course, focusing on "Artificial Intelligence / Machine Learning"
 
-## About the Course
-
-The "Introduction to Artificial Intelligence and Machine Learning" course, provided by Comviva, offers a comprehensive introduction to the exciting fields of AI and ML, providing participants with a solid foundation in key concepts, techniques, and applications. This course is designed for individuals with varying levels of technical background and aims to demystify complex concepts while fostering hands-on learning experiences.
-
 ## Table of Contents
 
 - [About the Course](#about-the-course)
@@ -14,6 +10,10 @@ The "Introduction to Artificial Intelligence and Machine Learning" course, provi
 - [Getting Started](#getting-started)
 - [License](#license)
 - [Contributing Members](#contributing-members)
+
+## About the Course
+
+The "Introduction to Artificial Intelligence and Machine Learning" course, provided by Comviva, offers a comprehensive introduction to the exciting fields of AI and ML, providing participants with a solid foundation in key concepts, techniques, and applications. This course is designed for individuals with varying levels of technical background and aims to demystify complex concepts while fostering hands-on learning experiences.
 
 ## Folder Structure
 
