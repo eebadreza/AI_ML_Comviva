@@ -12,8 +12,8 @@ The "Introduction to Artificial Intelligence and Machine Learning" course, provi
 - [Table of Contents](#table-of-contents)
 - [Folder Structure](#folder-structure)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
 - [License](#license)
+- [Contributing Members](#contributing)
 
 ## Folder Structure
 
